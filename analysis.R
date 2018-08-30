@@ -3,7 +3,7 @@
 #created on 8/28/2018
 
 #author: Benjamin Tayo
-
+library(tidyverse)
 data<-read_csv("global_EV_2016.csv",col_names = FALSE)
 head(data)
 data<-data[-c(1,2),]
