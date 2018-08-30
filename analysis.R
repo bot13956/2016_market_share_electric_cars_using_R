@@ -4,6 +4,7 @@
 
 #author: Benjamin Tayo
 library(tidyverse)
+library(readr)
 data<-read_csv("global_EV_2016.csv",col_names = FALSE)
 head(data)
 data<-data[-c(1,2),]
