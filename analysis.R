@@ -1,4 +1,4 @@
-#This code calculates the global market share for electric vehicles (EV) for selected countries.
+#This code plots the global market share for electric vehicles (EV) for selected countries.
 
 #created on 8/28/2018
 
